@@ -5,4 +5,4 @@ in order to run the test you need to open the project on your IDE and go to "src
 
 ***IMPORTANT***
 
-This project can only be excecuted on MacOS, If you need to run it on Windows, Linux or another OS, please conntact me and I'll be happy to help.
+This project can only be excecuted on MacOS, If you need to run it on Windows, Linux or another OS, please contact me and I'll be happy to help.
