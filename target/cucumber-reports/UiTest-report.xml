@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="2" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.079">
+    <testcase classname="UI - Add user &amp; validate" name="Add a user and validate the user has been added to the table" time="0.004">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Click on add a user...................................................undefined
+And user enters requested information.......................................skipped
+And 'StepsDefinitions' Submit Info..........................................skipped
+Then 'StepsDefinitions' new user is created & contains updated database with the new user.skipped
+]]></failure>
+    </testcase>
+    <testcase classname="UI - Delete user &amp; validate" name="Delete the user from the table and validate the user has been deleted." time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given 'StepsDefinitions' Delete user novak..................................undefined
+When 'StepsDefinitions' click on cross button & Ok..........................skipped
+Then 'StepsDefinitions' User is deleted & Contains updated database without the deleted user.skipped
+]]></failure>
+    </testcase>
+</testsuite>
