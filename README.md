@@ -1,4 +1,4 @@
-# Nicolas_Koriakos_teladoc_challenge
+# Teladoc Challenge
 
 
 in order to run the test you need to open the project on your IDE and go to "src/test/java/runner/testrunner" & run;
